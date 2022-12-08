@@ -32,3 +32,5 @@
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-4.jpg)
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-5.jpg)
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/6-1.jpg)
+![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/cover.jpg)
+
